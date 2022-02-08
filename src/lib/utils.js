@@ -17,7 +17,7 @@ export function updateFavicon(count) {
   }
   head.appendChild(newIcon);
 
-  document.title = `(${count > 0 ? count : ""}) ${APP_TITLE}`;
+  document.title = `${count > 0 ? `(${count})` : ""} ${APP_TITLE}`;
 }
 
 // Create theCard which represents user's or topic's "public" info.

@@ -91,6 +91,10 @@
     "defaultMessage": "Send request",
     "description": "Button [Send request]"
   },
+  "button_sign_in": {
+    "defaultMessage": "Sign in",
+    "description": "Button [Sign In]"
+  },
   "button_sign_up": {
     "defaultMessage": "Sign up",
     "description": "Create account button [Sign Up]"
@@ -206,6 +210,10 @@
   "file_attachment_too_large": {
     "defaultMessage": "The file size {size} exceeds the {limit} limit.",
     "description": "Error message when attachment is too large"
+  },
+  "forgot_password_link": {
+    "defaultMessage": "Forgot password?",
+    "description": "Link to Reset password form"
   },
   "full_name_prompt": {
     "defaultMessage": "Full name, e.g. John Doe",
